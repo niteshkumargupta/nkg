@@ -1,0 +1,10 @@
+{ 
+"id":"dibasedata",
+ "uid":"100111", 
+ "groups":["sysadmin","users"],
+ "shell":"",
+ "home_dir":"/home/atyagi",
+ "comment":"Nitesh Gupta",
+ "ssh_keys":"",
+ "action":"create"
+ }
