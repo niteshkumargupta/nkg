@@ -1,10 +1,10 @@
 { 
 "id":"test1",
- "uid":"10011", 
+ "uid":"10011121", 
  "groups":["sysadmin","users"],
  "shell":"",
- "home_dir":"/home/atyagi",
- "comment":"Nitesh Gupta",
+ "home_dir":"/home/nkgdhn",
+ "comment":"niteshgupta",
  "ssh_keys":"",
- "action":"create",
+ "action":"create"
  }
